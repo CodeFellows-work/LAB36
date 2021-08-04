@@ -2,7 +2,7 @@
 
 ## UML 
 
-![UML](./UML.jpeg)
+![UML](./uml.jpeg)
 
 
 
