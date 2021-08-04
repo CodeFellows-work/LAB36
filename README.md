@@ -4,7 +4,7 @@
 
 ![UML](./uml.jpeg)
 
-
+Link to UML for better picture: [UML](https://miro.com/app/board/o9J_l3k0DBQ=/)
 
 
 # Getting Started with Create React App
